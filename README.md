@@ -1,15 +1,15 @@
 # Cursor Starter Project
-Este es un proyecto starter diseñado específicamente para Cursor, que integra las siguientes tecnologías:
+Este es un proyecto starter diseñado específicamente para Cursor y Vercel, que integra las siguientes tecnologías:
 Stack Principal
 - ⚡ Next.js
 - 🎨 Shadcn/ui
 - 💅 Tailwind CSS
 - 📝 TypeScript
 - 🎯 CursorRules
-- 🚀 Replit deploy file
+- 🧚🏼 Vercel Postgres
 
 ## Características
-- Preparado para Cursor y Replit
+- Preparado para Cursor y Vercel
 - Componentes pre-configurados de Shadcn
 - Estructura de proyecto optimizada para TypeScript
 - Configuración lista para desarrollo con Next.js App Router
